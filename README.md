@@ -681,10 +681,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<br/>
-
 **⭐ Star this repo if RepoMind helped you understand a codebase!**
 
 <br/>
