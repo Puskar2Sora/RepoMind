@@ -78,7 +78,7 @@
 <tr>
 <td width="50%">
 
-### 🔍 Deep Repository Analysis
+###  Deep Repository Analysis
 - Autonomous multi-agent pipeline
 - Understands **any** public GitHub repo
 - Extracts purpose, architecture, patterns
@@ -100,7 +100,7 @@
 <tr>
 <td width="50%">
 
-### 🛠 Tech Stack Detection
+###  Tech Stack Detection
 - Automatically identifies all frameworks
 - Detects languages, databases, tools
 - Package manager detection
@@ -122,7 +122,7 @@
 <tr>
 <td width="50%">
 
-### 🕸 Interactive Dependency Graph
+### Interactive Dependency Graph
 - Real-time D3.js Canvas visualization
 - Entry points, files, packages, patterns
 - Drag, zoom, and pan interactions
@@ -132,7 +132,7 @@
 </td>
 <td width="50%">
 
-### 🛡 Security Scan
+###  Security Scan
 - Regex + LLM hybrid scanning
 - Detects hardcoded secrets & API keys
 - Finds dangerous function patterns
@@ -144,7 +144,7 @@
 <tr>
 <td width="50%">
 
-###  Auto Documentation
+### Auto Documentation
 - Generates professional README.md
 - Developer setup guide
 - Architecture documentation
@@ -161,7 +161,7 @@
 
 <div align="center">
 
-## 🏗 Architecture
+##  Architecture
 
 </div>
 
@@ -208,6 +208,49 @@
 
 ---
 
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" colspan="2">
+
+### Dashboard Overview
+<img src="./screenshots/dashboard.png" alt="RepoMind Dashboard" width="100%" style="border-radius:12px; border: 1px solid #f59e0b33;"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### Agent Pipeline
+<img src="./screenshots/pipeline.png" alt="Multi-Agent Pipeline" width="100%" style="border-radius:10px; border: 1px solid #6366f133;"/>
+
+</td>
+<td align="center" width="50%">
+
+###  Chat with Codebase
+<img src="./screenshots/chat.png" alt="Q&A Chat Panel" width="100%" style="border-radius:10px; border: 1px solid #22c55e33;"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+###  Dependency Graph
+<img src="./screenshots/graph.png" alt="Dependency Graph" width="100%" style="border-radius:10px; border: 1px solid #f9731633;"/>
+
+</td>
+<td align="center" width="50%">
+
+### Health Score Dashboard
+<img src="./screenshots/health.png" alt="Health Score" width="100%" style="border-radius:10px; border: 1px solid #a855f733;"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 <div align="center">
 
 ##  Tech Stack
