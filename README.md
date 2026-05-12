@@ -2,22 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=RepoMind&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%20Dashboard&descAlignY=65&descSize=20" width="100%"/>
 <br/>
 
-<p align="center">
-  <a href="https://repomind.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-RepoMind-f59e0b?style=for-the-badge&labelColor=1a1714&color=d97706" alt="Live Demo"/>
-  </a>
-  &nbsp;
-  <a href="https://repomind-ccr9.onrender.com/api/health">
-    <img src="https://img.shields.io/badge/%20API-Online-16a34a?style=for-the-badge&labelColor=1a1714&color=15803d" alt="API Status"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/yourusername/RepoMind/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/%20License-MIT-f97316?style=for-the-badge&labelColor=1a1714&color=ea580c" alt="License"/>
-  </a>
-  &nbsp;
-  </p>
-
-<br/>
 
 
 <table>
