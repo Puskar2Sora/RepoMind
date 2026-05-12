@@ -215,11 +215,6 @@
 <tr>
 <td align="center" colspan="2">
 
-### Dashboard Overview
-<img src="./screenshots/dashboard.png" alt="RepoMind Dashboard" width="100%" style="border-radius:12px; border: 1px solid #f59e0b33;"/>
-
-</td>
-</tr>
 <tr>
 <td align="center" width="50%">
 
