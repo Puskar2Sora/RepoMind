@@ -389,7 +389,7 @@ NODE_ENV=development
 Start backend:
 ```bash
 npm run dev
-# ✅ RepoMind backend running on :3001
+# RepoMind backend running on :3001
 ```
 
 ### 3️⃣ Setup Frontend
@@ -407,7 +407,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3001
 Start frontend:
 ```bash
 npm run dev
-# ✅ Ready at http://localhost:3000
+#  Ready at http://localhost:3000
 ```
 
 ### 4️⃣ Analyze Your First Repo
@@ -461,7 +461,7 @@ https://github.com/vitejs/vite          ← modern tooling
 </tr>
 </table>
 
-> 💡 **RepoMind runs completely free** — no credit card required for the hackathon demo!
+> **RepoMind runs completely free** — no credit card required for the hackathon demo!
 
 ---
 
@@ -553,7 +553,7 @@ Backend health check.
 
 <div align="center">
 
-## 🤖 Agent Details
+##  Agent Details
 
 </div>
 
@@ -564,37 +564,37 @@ Backend health check.
 <th>Technology</th>
 </tr>
 <tr>
-<td>⚡ <b>Clone Agent</b></td>
+<td> <b>Clone Agent</b></td>
 <td>Clone repos, validate URLs, manage storage</td>
 <td>simple-git, GitHub API</td>
 </tr>
 <tr>
-<td>🔍 <b>Scanner Agent</b></td>
+<td> <b>Scanner Agent</b></td>
 <td>Recursive file scanning, ignore filtering, content extraction</td>
 <td>Node.js fs module</td>
 </tr>
 <tr>
-<td>🧩 <b>Parser Agent</b></td>
+<td><b>Parser Agent</b></td>
 <td>Import/export analysis, entry point detection, dependency mapping</td>
 <td>Regex, AST patterns</td>
 </tr>
 <tr>
-<td>🧠 <b>Intelligence Agent</b></td>
+<td> <b>Intelligence Agent</b></td>
 <td>Architecture understanding, purpose extraction, health scoring</td>
 <td>Groq LLaMA 3.3 70B</td>
 </tr>
 <tr>
-<td>📝 <b>Docs Agent</b></td>
+<td> <b>Docs Agent</b></td>
 <td>README generation, setup guides, architecture docs, Mermaid diagrams</td>
 <td>Groq LLaMA 3.3 70B</td>
 </tr>
 <tr>
-<td>🛡 <b>Security Agent</b></td>
+<td><b>Security Agent</b></td>
 <td>Secret detection, dangerous pattern scanning, vulnerability analysis</td>
 <td>Regex + Groq LLM</td>
 </tr>
 <tr>
-<td>💬 <b>Q&A Agent</b></td>
+<td> <b>Q&A Agent</b></td>
 <td>Natural language Q&A, keyword RAG retrieval, source attribution</td>
 <td>Keyword Search + Groq</td>
 </tr>
@@ -658,7 +658,7 @@ Add environment variable in Vercel dashboard:
 
 <div align="center">
 
-## 🤝 Contributing
+## Contributing
 
 </div>
 
@@ -686,20 +686,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for our code of conduct and contr
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
-
-
-<table>
-<tr>
-<td align="center"><a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-Inference-f55036?style=for-the-badge&logo=groq&logoColor=white"/></a></td>
-<td align="center"><a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Google-Gemini-4285f4?style=for-the-badge&logo=google&logoColor=white"/></a></td>
-<td align="center"><a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-<td align="center"><a href="https://render.com"><img src="https://img.shields.io/badge/Render-Backend-46e3b7?style=for-the-badge&logo=render&logoColor=black"/></a></td>
-</tr>
-</table>
 
 ---
 
