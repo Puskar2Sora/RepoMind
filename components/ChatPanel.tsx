@@ -3,7 +3,6 @@ import { useState, useRef, useEffect } from 'react';
 import { MessageSquare, Send, User, Bot } from 'lucide-react';
 import axios from 'axios';
 import ReactMarkdown from 'react-markdown';
-
 interface Message {
   role: 'user' | 'assistant';
   content: string;
